@@ -1,0 +1,7 @@
+node_modules/
+dist/
+stylescan-app/node_modules/
+stylescan-app/static-build/
+external-Image-Code-Gen/
+.DS_Store
+npm-debug.log*
